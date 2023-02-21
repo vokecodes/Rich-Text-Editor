@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Rich Text Editor with Quil
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
