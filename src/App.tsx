@@ -1,12 +1,6 @@
-import React, {
-  Fragment,
-  useState,
-  useRef,
-  useMemo,
-  MutableRefObject,
-} from "react";
+import React, { Fragment, useState, useRef, useMemo } from "react";
 import { Dialog, Transition, Listbox } from "@headlessui/react";
-import ReactQuill, { ReactQuillProps } from "react-quill";
+import ReactQuill from "react-quill";
 import "react-quill/dist/quill.snow.css";
 import axios from "axios";
 
